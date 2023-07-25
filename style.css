@@ -1,0 +1,14 @@
+selector
+{
+    property: value;
+}
+
+body
+{
+    background-color: black;
+}
+
+.introduction
+{
+    color: white;
+}
