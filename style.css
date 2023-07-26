@@ -24,16 +24,18 @@ h1
 {
     margin-left: 400px;
     margin-right: 790px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 #starters_image_div
 {
     margin-left: 400px;
-    margin-right: 790px;
+    margin-right: 750px;
     border: 5px solid rgb(31, 91, 173);
     padding-top: 5px; 
     padding-right: 5px;
-    padding-bottom: 3px;
+    padding-bottom: 5px;
     padding-left: 5px;
 }
 
@@ -41,4 +43,17 @@ h1
 {
     background-color: darkseagreen;
     border: 5px solid gold;
+}
+
+#charmander_container
+{
+    background-color: orange;
+    border: 5px solid gold;
+}
+
+#squirtle_container
+{
+    background-color: lightskyblue;
+    border: 5px solid gold;
+    margin-bottom: 40px;
 }
